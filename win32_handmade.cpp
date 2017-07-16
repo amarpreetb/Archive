@@ -220,7 +220,10 @@ internal void Win32DisplayBufferInWindow(win32OffScreenBuffer *Buffer, HDC Devic
 		DIB_RGB_COLORS, SRCCOPY
 	);
 }
-
+/******************************************************************************
+LRESULT CALLBACK info available at MSDN
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms633573(v=vs.85).aspx
+*******************************************************************************/
 internal LRESULT CALLBACK Win32MainWindowCallback(
 	HWND   Window,
 	UINT   Massage,
@@ -352,7 +355,10 @@ internal LRESULT CALLBACK Win32MainWindowCallback(
 	}
 	return(Result);
 }
-
+/******************************************************************************
+CALLBACK WinMAin info available at MSDN
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms633559(v=vs.85).aspx
+*******************************************************************************/
 int CALLBACK WinMain(HINSTANCE Instance, HINSTANCE PrevInstance, LPSTR CommandLine, int ShowCode) {
 	Win32LoadXInput();
 	WNDCLASSA WindowClass = {};

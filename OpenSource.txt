@@ -1,0 +1,220 @@
+Handbrake
+===================================================================================
+http://www.datamation.com/open-source/open-source-software-list-ultimate-list-1.html
+===================================================================================
+https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
+=================================================
+http://www.damicon.com/resources/opensoftware.html
+=================================================
+=========================
+https://mingw-w64.org/doku.php
+-----------------------------
+Fedora cross-compiler
+Npackd
+OpenSUSE
+Win-builds
+Barchart-UDT
+Blender
+Boost
+Botan
+Ceemple
+Code::Blocks
+DAE Tools
+devkitPro
+Disk Based HashTables
+Ecere SDK
+Ekiga
+Emerge Desktop
+Enlightenment
+Factor
+FFmpeg
+FLTK
+Freecell Solver
+Freeverb3
+GCC: The GNU Compiler Collection
+GDB: The GNU Project Debugger
+GIMP
+GNU Binutils
+GNU SASL
+GnuTLS
+GraphicsMagick
+GTK+
+Hexen II: Hammer of Thyrion
+iAuxSoft
+ImageMagick
+JPen
+KDE Software Collection
+libav
+LibreOffice
+libsndfile
+libvirt
+libvpx
+Libxml2
+MAME (Yes, the arcade emulator!)
+ManKai Common Lisp
+mCtrl
+mpg123
+MPIR
+MS MPI (repackaged)
+MS MPI
+OCaml
+OpenFOAM
+OpenLisp
+OpenSC
+OpenSSL
+OpenTURNS
+Perl (5.12.0 and later)
+PostgreSQL
+pthreads
+PToolsWin
+QEMU
+Qt
+QuakeSpasm
+ReMooD
+SBC Archiver
+Smart Image Denoiser
+smartmontools
+Strawberry Perl (bundles C toolchains)
+strongSwan
+The R Project for Statistical Computing
+Tomahawk Player
+VideoLAN VLC
+VSXu
+Woo
+wxPerl PPMs
+wxWidgets
+YafaRay
+zlib
+=======================
+https://www.codeproject.com/articles/19218/some-of-the-best-open-source-project-s-in-vc-mfc
+
+List of Best Open Source Projects Written in VC++/MFC
+7-Zip (http://sourceforge.net/projects/sevenzip/) : 
+7-Zip is a file archiver with a high compression ratio. The program supports 7z, ZIP, CAB, RAR, ARJ, LZH, CHM, GZIP, BZIP2, Z, TAR, CPIO, RPM and DEB formats. Compression ratio in the new 7z format is 30-50% better than ratio in ZIP format.
+eMule (http://sourceforge.net/projects/emule/):
+eMule is a filesharing client which is based on the eDonkey2000 network but offers more features than the standard client.
+eMule Plus (http://sourceforge.net/projects/emuleplus/) :
+eMule Plus is an evolution of the original eMule project, created to improve its abilities and features, in both work efficiency and user interface.
+eMule Morph (http://sourceforge.net/projects/emulemorph/):
+eMule Morph Mod - eMule Modding Project.
+FileZilla (http://sourceforge.net/projects/filezilla/):
+FileZilla is a fast FTP and SFTP client for Windows with a lot of features. FileZilla Server is a reliable FTP server.
+KeePass Password Safe (http://sourceforge.net/projects/keepass/):
+KeePass Password Safe is a free, open source, light-weight and easy-to-use password manager for Windows. You can store your passwords in a highly-encrypted database, which is locked with one master password or key file.
+K-Meleon (http://sourceforge.net/projects/kmeleon/):
+K-Meleon is a fast and customizable web browser that can be used instead of Internet Explorer on Windows. Powered by the same Gecko engine as the Firefox and Mozilla browsers, K-Meleon provides users with a secure browsing experience.
+MiKTeX (http://sourceforge.net/projects/miktex/):
+MiKTeX is an up-to-date implementation of TeX & Friends for Windows (all current variants).
+MyNapster (http://sourceforge.net/projects/mynapster/):
+MyNapster is a Win32 client using Gnutella and IRC for chat. It is based on Gnucleus and utilizes MFC (works with WINE).
+Nokia Composer (http://sourceforge.net/projects/nokiacomposer/):
+This is a Win32, VC++ MFC application to manage Nokia mobile phones melodies. Includes VC++ source code and Rational Rose UML model.
+Peters Backup (http://sourceforge.net/projects/pbackup):
+Peters Backup is a program for backing up your important data files on to diskette, zip drive, fixed disk or CD/RW. It uses an extremely efficient compression algorithm. It keeps track of all versions of your files in full and incremental backups.
+Password Safe (https://sourceforge.net/projects/passwordsafe/):
+Password Safe is a password database utility. Users can keep their passwords securely encrypted on their computers. A single Safe Combination unlocks them all.
+RenFile (http://sourceforge.net/projects/renfile/):
+Rename files and folders in bulk using this VC++ .NET program.
+Shareaza (https://sourceforge.net/projects/shareaza/):
+Multi-network peer-to-peer file-sharing client supporting Gnutella2, Gnutella1, eDonkey2000/eMule and BitTorrent protocols. Using C++, MFC and ATL, for Windows.
+SunshineUN (http://sourceforge.net/projects/sunshineun/):
+SunshineUN is a free Napster based file sharing program for Opennap/Slavanap which allows you to share and download multiple files of different types for example music, pictures and videos. It is for Windows and it is written in C++ using MFC .
+TortoiseCVS (http://sourceforge.net/projects/tortoisecvs/):
+TortoiseCVS is an extension for Microsoft Windows Explorer that makes using CVS fun and easy. Features include: colored icons, tight integration with SSH, and context-menu interactivity.
+TortoiseSVN (http://sourceforge.net/projects/tortoisesvn):
+TortoiseSVN is a Subversion (SVN) client, implemented as a Windows shell extension. It's intuitive and easy to use, since it doesn't require the Subversion command line client to run. Simply the coolest Interface to (Sub)Version Control!
+WinDirStat: Windows Directory Statistics (http://sourceforge.net/projects/windirstat/):
+WinDirStat (WDS) is a disk usage statistics viewer and cleanup tool for Windows. It shows disk, file and directory sizes in a treelist as well as graphically in a treemap, much like KDirStat or SequoiaView.
+WinDjView (http://sourceforge.net/projects/windjview):
+WinDjView is a fast, compact and powerful DjVu viewer for Windows with continuous scrolling and advanced printing options, based on free DjVuLibre library. MacDjView is a simple DjVu viewer for Mac OS X, also with continuous scrolling.
+C++ Library for Windows (http://sourceforge.net/projects/rulib):
+A C++ library for the Windows platform containing classes for MIME, video capture, socket, Windows registry, files, images, and other basic purposes.
+WinMerge (https://sourceforge.net/projects/winmerge/):
+WinMerge is a Win32 tool for visual difference display and merging, for both files and directories. Unicode support. Flexible syntax coloring editor. Windows Shell integration. Regexp filtering. Side-by-side line diff and highlights diffs inside lines.
+Disk Cleaner (http://sourceforge.net/projects/dclean/):
+Disk Cleaner is a tool to quickly and easily free disk space that is used by temporary files like the system temporary folder, the Internet Explorer Cache and Cookies folder, and the Recycle Bin. It can be expanded with text-based plug-ins & DLLs.
+Shared IIS Server Log/Bandwidth-Analyzer (http://sourceforge.net/projects/sharediis/):
+This utility is intended to be used to analyze and present a per-site (in case of WWW logs), or (in case of FTP logs) a per-web summary of bandwidth used, hits, and average bandwidth used.
+Remote Control Center (http://sourceforge.net/projects/remotectrlctr/):
+Remote Control Center is an application designed to help a system/network administrators taking control of remote devices in the network from a single GUI.
+RevConnect - Enhanced DC++ (http://sourceforge.net/projects/reverseconnect/):
+RevConnect is a file sharing program based on DC++. It is fully compatible with the Direct Connect network and made some major features.
+Show Traffic (http://sourceforge.net/projects/showtraf):
+"Show Traffic" monitors network traffic on the chosen network interface and displays it continuously. It could be used for locating suspicious network traffic or to evaluate current utilization of the network interface.
+War FTP Daemon Engine (http://sourceforge.net/projects/wfde/):
+A generic C++ class library for FTP server implementations, including a full-featured, mature FTP server.
+AxCrypt - File Encryption for Windows (http://sourceforge.net/projects/axcrypt/):
+AxCrypt - Personal Privacy and Security with AES-128 File Encryption and Compression for Windows 98/ME/NT/2K/XP. Double-click to automatically decrypt and open documents. Store strong keys on removable USB-devices.
+Open Source Firewall For Windows (http://sourceforge.net/projects/firewallpapi/):
+FirewallPAPI is an open source firewall for Windows 2000 and above. It is a simple utility for filter network traffic.
+MinkSonic Jukebox (http://sourceforge.net/projects/minksonic):
+MFC-based front-end to Winamp that provides jukebox behavior as well as "explorer-like" MP3 library management, a web-based network interface and MP3 frame error detection/correction.
+p2pfire: super p2p driver firewall (http://sourceforge.net/projects/p2pfire):
+Super P2P firewall 32/64 bits (driver + application).
+WABAccess (http://sourceforge.net/projects/wabaccess/):
+The WABAccess component gives an access to the Windows Address Book (or WAB) used by Outlook Express. It's a COM/ATL component that gives an access from Visual Basic language or Scripting language (VBS) to WAB.
+Yet Another Fractal Explorer (http://sourceforge.net/projects/yafe):
+Yet Another Fractal Explorer is an interactive fractal renderer for Windows. It features extremely simple and intuitive user interface and is capable of producing mathematically-sound renderings.
+CDDA Ripper XP (http://sourceforge.net/projects/cddarip):
+CDDA Ripper XP is an audio CD ripper program that provides support for NT/2000/XP natively (ASPI manager is optional). It supports WAV-MP3-OGG-FLAC-ACM codec encoding and can be used to rip multiple CDs. It uses newest encoders like LAME and Ogg/Vorbis.
+[ mp3 - explorer ] (http://sourceforge.net/projects/mp3explorer):
+[ mp3 - explorer ] is a MP3 Manager providing advanced features: multi-folders file scanning with cache - id3v1 and id3v2 tagging - Intellitag - HTML view of the tracks displaying album cover and Lyrics.
+ultraMaGE (http://sourceforge.net/projects/ultramage):
+ultraMage is a powerful dual-window file manager for Windows with many useful features like bookmarks, advanced file operations and folder synchronization. It is still very easy to use, because the user interface is similar to that of Windows Explorer.
+WinTarBall (http://sourceforge.net/projects/wintarball/):
+WinTarBall adds a control panel and an Explorer shell extension that allow users to compress directories into .tgz or .tbz files simply by right-clicking on them and choosing "compress to tarball".
+XML Explorer (http://sourceforge.net/projects/xpathexplorer/):
+A utility to query XML files using XPath and also extend XPath to more documents than one. Win32 platform/MFC.
+Emerge Desktop (http://sourceforge.net/projects/emerge/):
+Emerge is an alternate Windows shell. Its purpose is to replace Windows Explorer as your desktop user interface, providing similar functionality, with the additional plugins to provide even more.
+Folder Size for Windows (http://sourceforge.net/projects/foldersize/):
+Folder Size for Windows adds a new column to the Windows Explorer details view that displays the sizes of files and folders. A service scans your hard disk in the background and caches the results. Designed for performance!
+Rename-It! (https://sourceforge.net/projects/renameit/):
+Define some filters to apply to a list of files, which can be in multiple folders, to rename the whole list at once. It checks the file names, integrates in the Shell (via Explorer context menu), supports regular expressions, ID3 tags, and much more.
+ShellWM (http://sourceforge.net/projects/shellwm/):
+Windows skinning application to be used with a Win32 Shell replacement (like Litestep, geOshell, sharpE, etc.) or just native Explorer.
+Blackbox for Windows (http://sourceforge.net/projects/bb4win/):
+Blackbox for Windows is an alternative shell for Microsoft Windows. It is based stylistically on the Blackbox window manager for the X Window System, however it does not use the same codebase except for the gradient rendering code.
+HideThatWindow! (http://sourceforge.net/projects/hidethatwindow/):
+HideThatWindow! enables you to Hide or Show a window; minimize, maximize and restore its original size (or change the size to fit your needs). Disable the window's taskbar button or send it to tray. Other features are transparency, docking and top-most.
+Security & Privacy Complete 3 (http://sourceforge.net/projects/cmia/):
+Security & Privacy Complete is mainly a security tool for Windows. It can disable all services which might be a security-risk, harden registry settings... Also included privacy features for Internet Explorer, Media Player, and of course: Mozilla Firefox.
+TaskSwitchXP (http://sourceforge.net/projects/taskswitchxp/):
+TaskSwitchXP provides the same functionality as the existing application switching mechanism in Windows XP today. In addition to displaying an icon list, however, the application will also show a thumbnail preview of the window that will be switched to.
+Windows Process Tools (http://sourceforge.net/projects/winpstools):
+Command-line utilities to find, list, and terminate running processes under Windows, similar to the Unix ps and kill commands. Good for command-line folks who don't like to use the Windows Task Manager.
+OpenSTA (http://sourceforge.net/projects/opensta/):
+Open System Testing Architecture - a distributed software testing architecture designed around CORBA. The current toolset has the capability of performing scripted Web (HTTP and HTTPS) heavy load tests with performance measurements from Win32 platforms.
+MFC MUTE (http://sourceforge.net/projects/mfc-mute-net/):
+MFC MUTE is a Microsoft Windows *ONLY* client for the MUTE anonymous P2P network. This application derives from the original MUTE (mute-net.sourceforge.net) app supporting anonymous file sharing. The GUI is the best/most polished Windows MUTE available.
+DeepNetScanner (http://sourceforge.net/projects/nbtenum):
+This is a internet security scanner which scans a specified machine or a range of IPs for all possible information like NetBIOS enumeration, gathering sharelist, domain, os, lan manager, remote connection, SNMP walking, ...
+WinSCP (http://sourceforge.net/projects/winscp/):
+WinSCP is a SFTP and SCP client for Windows using SSH. Its main function is secure copying of files between a local and a remote computer. Beyond this basic function, WinSCP manages some other actions with files. Plugin to FAR manager is available too.
+winfingerprint (http://sourceforge.net/projects/winfingerprint/):
+Winfingerprint is a Win32 MFC VC++ .NET based security tool that is able to Determine OS, enumerate users, groups, shares, SIDs, transports, sessions, services, service pack and hotfix level, date and time, disks, and open TCP and UDP ports.
+Visual Component Framework (http://vcf-online.org/): The Visual Component Framework is an advanced C++ application framework that makes it easy to produce powerful C++ applications. The framework is a based on a thoroughly modern C++ design and has built in support for Rapid Application Development (RAD).
+Some Very Good VC++/MFC Resources Besides Codeproject.com
+http://www.naughter.com/ (VC++/MFC huge code repository)
+By PJ naughter Personally my favorite besides codeproject.com. This site contains a huge source code repository for MFC programmer. It has some of the best addon classes written for MFC programmers. What I like most about PJ naughter is that he keeps on improving these classes and fixes each and every bug in the code. Some of the classes are now in their 70 to 80th version.
+http://flounder.com/mvp_tips.htm (VC++/MFC)
+BY Joseph M. Newcomer
+This is very nice site containing lots and lots of VC++ tips, tricks and very detailed essays + great code examples. Main focus is on how to write the code in the right way.
+http://www.cheztabor.com/ (ATL/WTL)
+By cheztabor
+This site contains very nice code examples for ATL, WTL and Shell programming.
+http://www.viksoe.dk/code/ (ATL/WTL)
+By the author of Gmail Drive
+Although the code for GmailDrive is not provided, this site contains lots of other code examples covering MFC, ATL, WTL and Shell programming.
+http://www.codeguru.com/ (VC++/MFC/ATL and a lot more)
+Does not need any introduction. I think most of us already know about this site.
+http://programmerworld.net/personal/projects.htm (VC++/MFC )
+This is my personal web site. It has one firewall software with source code. I will be adding more code soon.
+http://vcfaq.mvps.org/ (VC++/MFC FAQs)
+This is the MVP's Frequently Asked Questions Page for Microsoft Visual C++. In here, you'll find answers to several commonly asked questions about Visual C++, MFC and Windows development in C/C++, as well as others.
+http://www.developersvoice.com/programming/article/vc-mfc (VC++/MFC)
+VC++/ MFC related FAQS
+http://www.functionx.com/ (VC++/MFC )
+A beginners site for VC++ and MFC programming. Contains some very nice beginner articles.
+http://www.softlookup.com/tutorial/vc++/index.asp A beginners site for VC++ and MFC programming. Contains some very nice beginner articles.
+http://www.mathcs.sjsu.edu/faculty/pearce/mfc/ A very nice web site. Very well written. One of the best resources for beginner in the field of VC++/MFC.
